@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello ! My name is Ronja Lukkarinen and i am a 3rd year Web programming student at Business College Helsinki.
+
+You can contact me through email ronjaluk04@gmail.com
+
 <!--
 **ultsouma/ultsouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
