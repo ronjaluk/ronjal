@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello ! My name is Ronja Lukkarinen and i am a 3rd year Web programming student at Business College Helsinki.
+Hello ! My name is Ronja Lukkarinen and i am a junior web programmer who graduated from Business College Helsinki.
 
 You can contact me through email ronjaluk04@gmail.com
 
